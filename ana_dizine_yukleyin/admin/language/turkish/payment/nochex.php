@@ -7,7 +7,7 @@ $_['heading_title']      = 'NOCHEX';
 // Text 
 $_['text_payment']       = 'Ödeme Metodları';
 $_['text_success']       = 'Başarılı: NOCHEX hesap detayları başarılı bir şekilde değiştirildi!';
-$_['text_nochex']	     = '<a onclick="window.open(\'https://secure.nochex.com/apply/merchant_info.aspx?partner_id=172198798\');"><img src="view/image/payment/nochex.png" alt="NOCHEX" title="NOCHEX" style="border: 1px solid #EEEEEE;" /><br /></a>';
+$_['text_nochex']	     = '<a onclick="window.open(\'https://secure.nochex.com/apply/merchant_info.aspx?partner_id=172198798\');"><img src="view/image/payment/nochex.png" alt="NOCHEX" title="NOCHEX" style="border: 1px solid #EEEEEE;" /><br /><small>Signup</small></a>';
 $_['text_seller']        = 'Seller / Personal Account';
 $_['text_merchant']      = 'Merchant Account';
       
@@ -17,7 +17,6 @@ $_['entry_account']      = 'Hesap Türü:';
 $_['entry_merchant']     = 'Merchant ID:';
 $_['entry_template']     = 'Pass Template:';
 $_['entry_test']         = 'Test Modu:';
-$_['entry_total']        = 'Toplam:<br /><span class="help">Bu ödeme metodunun aktif olması için toplam sipariş miktarını giriniz</span>';
 $_['entry_order_status'] = 'Sipariş Durumu:';
 $_['entry_geo_zone']     = 'Genel Bölge:';
 $_['entry_status']       = 'Durumu:';

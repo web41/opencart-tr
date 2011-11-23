@@ -5,7 +5,7 @@
 $_['heading_title']       = 'Kuponlar';
 
 // Text
-$_['text_success']        = 'Başarılı: Kupon başarılı bir şekilde değiştirildi!';
+$_['text_success']        = 'Başarılı: Kuponlar başarılı bir şekilde değiştirildi!';
 $_['text_percent']        = 'Yüzde(%)';
 $_['text_amount']         = 'Sabit Miktar';
 
@@ -16,21 +16,17 @@ $_['column_discount']     = 'İndirim';
 $_['column_date_start']   = 'Başlangıç Tarihi';
 $_['column_date_end']     = 'Bitiş Tarihi';
 $_['column_status']       = 'Durumu';
-$_['column_order_id']     = 'Sipariş ID';
-$_['column_customer']     = 'Müşteri';
-$_['column_amount']       = 'Miktar';
-$_['column_date_added']   = 'Ekleme Tarihi';
-$_['column_action']       = 'Eylem';
+$_['column_action']       = 'Aksiyon';
 
 // Entry
 $_['entry_name']          = 'Kupon Adı:';
-$_['entry_code']          = 'Kod:<br /><span class="help">İndirim kuponu için gerekli kod</span>';
+$_['entry_description']   = 'Kupon Açıklaması:';
+$_['entry_code']          = 'Kod:<br /><span class="help">Müşterinin indirim için girmesi gereken kod</span>';
 $_['entry_type']          = 'Türü:<br /><span class="help">Yüzde ya da Sabit miktar</span>';
 $_['entry_discount']      = 'İndirim:';
 $_['entry_logged']        = 'Müşteri Girişi:<br /><span class="help">Müşteri kuponu kullanabilmesi için giriş yapmasını gerektirir.</span>';
 $_['entry_shipping']      = 'Ücretsiz Kargo:';
 $_['entry_total']         = 'Toplam Tutara Göre:<br /><span class="help">Toplam sipariş tutarı belirtilen rakam üzerindeyse indirim kuponunu kullanılsın</span>';
-$_['entry_category']      = 'Kategori:<br /><span class="help">Seçtiğiniz kategori altındaki ürünlerden seçiniz</span>';
 $_['entry_product']       = 'Ürünler:<br /><span class="help">Kupon seçilen ürünlere uygulanacaktır. Sepetteki tüm ürünlere uygulamak için ürün seçemyiniz</span>';
 $_['entry_date_start']    = 'Başlangıç Tarihi:';
 $_['entry_date_end']      = 'Bitiş Tarihi:';
@@ -40,6 +36,7 @@ $_['entry_status']        = 'Durumu:';
 
 // Error
 $_['error_permission']    = 'Uyarı: Kuponları düzenleme iznine sahip değilsiniz!';
-$_['error_name']          = 'Kupon Adı 3 ile 128 karakter arasında olmalı!';
+$_['error_name']          = 'Kupon Adı 3 ile 64 karakter arasında olmalı!';
+$_['error_description']   = 'Kupon Açıklama alanı en az 3 karakter olmalı!';
 $_['error_code']          = 'Kupon kodu 3 ile 10 karakter arasında olmalı!';
 ?>

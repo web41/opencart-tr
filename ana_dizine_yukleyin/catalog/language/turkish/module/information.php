@@ -2,7 +2,7 @@
 /* Turkceye Ceviren eka7a - http://www.e-piksel.com */
 
 // Heading 
-$_['heading_title'] = 'Bilgiler';
+$_['heading_title'] = 'BİLGİLER';
 
 // Text
 $_['text_contact']  = 'İletişim';

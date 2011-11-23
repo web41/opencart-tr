@@ -15,5 +15,5 @@ $_['text_success']    = 'Başarılı: Yeni parolanız e-posta adresinize gönder
 $_['entry_email']     = 'E-Posta Adresiniz:';
 
 // Error
-$_['error_email']     = 'Uyarı: E-Posta adresi bulunamadı. Lütfen tekrar deneyiniz!';
+$_['error_email']     = 'Hata: E-Posta adresi bulunamadı. Lütfen tekrar deneyiniz!';
 ?>

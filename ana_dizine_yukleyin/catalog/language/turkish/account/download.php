@@ -13,5 +13,5 @@ $_['text_name']       = 'Adı:';
 $_['text_remaining']  = 'Kalan:';
 $_['text_size']       = 'Boyutu:';
 $_['text_download']   = 'İndir';
-$_['text_empty']      = 'Daha önce indirilebilir ürünü siparişi vermediniz!';
+$_['text_error']      = 'Siz daha önce indirme ürünü sipariş etmediniz!';
 ?>

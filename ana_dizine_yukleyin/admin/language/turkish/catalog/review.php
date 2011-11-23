@@ -16,7 +16,7 @@ $_['column_date_added'] = 'Ekleme Tarihi';
 $_['column_action']     = 'Eylem';
 
 // Entry
-$_['entry_product']     = 'Ürün:<br /><span class="help">(Otomatik Tamamlama)</span>';
+$_['entry_product']     = 'Ürün:';
 $_['entry_author']      = 'Ekleyen:';
 $_['entry_rating']      = 'Oylama:';
 $_['entry_status']      = 'Durumu:';

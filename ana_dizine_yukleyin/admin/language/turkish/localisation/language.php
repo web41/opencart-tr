@@ -15,8 +15,8 @@ $_['column_action']     = 'Eylem';
 
 // Entry
 $_['entry_name']        = 'Dil Adı:';
-$_['entry_code']        = 'Kodu (en,tr):<br /><span class="help">örn: tr. Bu varsayılan diliniz ise değiştirmeyiniz.</span>';
-$_['entry_locale']      = 'Yer:<br /><span class="help">örn: tr_TR.UTF-8,tr_TR,tr-tr,turkish</span>';
+$_['entry_code']        = 'Kodu (en,tr):<br /><span class="help">Bu varsayılan diliniz ise değiştirmeyiniz.</span>';
+$_['entry_locale']      = 'Yer:';
 $_['entry_image']       = 'Bayrak Resimi (en.png,tr.gif):';
 $_['entry_directory']   = 'Klasör (english,turkish):';
 $_['entry_filename']    = 'Dosya Adı (english,turkish):';
@@ -25,6 +25,7 @@ $_['entry_sort_order']  = 'Sıralama:';
 
 // Error
 $_['error_permission']  = 'Uyarı: Dilleri düzenleme iznine sahip değilsiniz!';
+$_['error_only']        = 'En az bir olması gerektiği için son kalan dilinizi silemezsiniz!';
 $_['error_name']        = 'Dil Adı 3 ile 32 karakter arasında olmalı!';
 $_['error_code']        = 'Dil Kodu en fazla 2 karakter olmalı!';
 $_['error_locale']      = 'Yer gerekli!';

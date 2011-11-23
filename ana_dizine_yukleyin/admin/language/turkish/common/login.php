@@ -7,7 +7,6 @@ $_['heading_title']  = 'Yönetim';
 // Text
 $_['text_heading']   = 'Yönetim';
 $_['text_login']     = 'Lütfen bilgilerinizi giriniz.';
-$_['text_forgotten'] = 'Parolamı Unuttum';
 
 // Entry
 $_['entry_username'] = 'Kullanıcı Adı:';

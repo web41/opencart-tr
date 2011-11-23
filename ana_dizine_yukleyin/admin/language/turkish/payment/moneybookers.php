@@ -11,13 +11,12 @@ $_['text_moneybookers']	 			= '<a onclick="window.open(\'https://www.moneybooker
 
 // Entry	
 $_['entry_email']		            = 'E-Posta:';
-$_['entry_secret']		            = 'Gizli:';
-$_['entry_total']        			= 'Toplam:<br /><span class="help">Bu ödeme metodunun aktif olması için toplam sipariş miktarını giriniz</span>';
+$_['entry_secret']		            = 'Gizli(Secret):<br/><span class="help">Tavsiye edilir. Bu kodu Moneybookers hesabınızdaki "Tüccar Araçları" bölümünden alabilirsiniz. Sadece Tüccar hesabı olan kullanıcılar içindir.</span>';
 $_['entry_order_status']            = 'Sipariş Durumu:';
-$_['entry_pending_status']    		= 'Beklemede Durumu:';
-$_['entry_canceled_status']   		= 'İptal Durumu:';
-$_['entry_failed_status']     		= 'Başarısız Durumu:';
-$_['entry_chargeback_status'] 		= 'Geri Ödeme Durumu:';
+$_['entry_order_status_pending']    = 'Sipariş Beklemede:';
+$_['entry_order_status_canceled']   = 'Sipariş İptal:';
+$_['entry_order_status_failed']     = 'Sipariş Başarısız:';
+$_['entry_order_status_chargeback'] = 'Geri Ödeme:';
 $_['entry_geo_zone']                = 'Genel Bölge:';
 $_['entry_status']                  = 'Durumu:';
 $_['entry_sort_order']              = 'Sıralama:';

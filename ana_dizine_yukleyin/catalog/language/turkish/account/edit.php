@@ -13,12 +13,13 @@ $_['text_success']        = 'Başarılı: Hesabınız başarılı bir şekilde g
 // Entry
 $_['entry_firstname']     = 'Ad:';
 $_['entry_lastname']      = 'Soyad:';
+$_['entry_date_of_birth'] = 'Doğum Günü:';
 $_['entry_email']         = 'E-Posta:';
 $_['entry_telephone']     = 'Telefon:';
 $_['entry_fax']           = 'Faks:';
 
 // Error
-$_['error_exists']        = 'Uyarı: E-Posta adresi ile daha önce kayıt olunmuştur!';
+$_['error_exists']        = 'Hata: E-Posta adresi ile daha önce kayıt olunmuştur!';
 $_['error_firstname']     = 'Ad alanı 1 ile 32 karakter arasında olmalı!';
 $_['error_lastname']      = 'Soyad 1 ile 32 karakter arasında olmalı!';
 $_['error_email']         = 'Geçerli bir E-Posta adresi yazınız!';

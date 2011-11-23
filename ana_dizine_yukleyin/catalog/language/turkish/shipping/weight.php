@@ -4,4 +4,5 @@
 // Text
 $_['text_title'] = 'Ağırlığa Göre Kargo';
 $_['text_weight'] = 'Ağırlık:'; 
+$_['text_allzones'] = 'Tüm Şehirler';
 ?>

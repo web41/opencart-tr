@@ -4,9 +4,7 @@
 // Heading
 $_['heading_title']  = 'İletişim';
 
-// Text
-$_['text_location']  = 'Mağaza Bilgilerimiz';
-$_['text_contact']   = 'İletişim Formu';
+// Text 
 $_['text_address']   = 'Adres:';
 $_['text_email']     = 'E-Posta:';
 $_['text_telephone'] = 'Telefon:';
@@ -14,8 +12,8 @@ $_['text_fax']       = 'Faks:';
 $_['text_message']   = '<p>Mesajınız başarıyla gönderildi!</p><p>En kısa sürede size geri dönüş yapılacaktır.</p>';
 
 // Entry Fields
-$_['entry_name']     = 'Adınız:';
-$_['entry_email']    = 'E-Posta Adresiniz:';
+$_['entry_name']     = 'Adı:';
+$_['entry_email']    = 'E-Posta Adresi:';
 $_['entry_enquiry']  = 'Mesajınız:';
 $_['entry_captcha']  = 'Doğrulama kodunu giriniz:';
 

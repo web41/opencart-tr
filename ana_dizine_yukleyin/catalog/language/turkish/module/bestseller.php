@@ -2,8 +2,8 @@
 /* Turkceye Ceviren eka7a - http://www.e-piksel.com */
 
 // Heading 
-$_['heading_title']  = 'En Çok Satılanlar';
+$_['heading_title']  = 'EN ÇOK SATILANLAR';
 
 // Text
-$_['text_reviews']  = '%s yorum yapılmış.';
+$_['text_stars']     = '%s 5 Yıldızlı';
 ?>

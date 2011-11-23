@@ -17,7 +17,6 @@ $_['entry_password']      = 'API Parolası:';
 $_['entry_signature']     = 'API İmzası:';
 $_['entry_test']          = 'Test Modu:<br /><span class="help">Use the live or testing (sandbox) gateway server to process transactions?</span>';
 $_['entry_transaction']   = 'Transaction Method:';
-$_['entry_total']         = 'Toplam:<br /><span class="help">Bu ödeme metodunun aktif olması için toplam sipariş miktarını giriniz</span>';
 $_['entry_order_status']  = 'Sipariş Durumu:';
 $_['entry_geo_zone']      = 'Genel Bölge:';
 $_['entry_status']        = 'Durumu:';

@@ -5,13 +5,13 @@
 $_['heading_title']    = 'Kupon';
 
 // Text
-$_['text_total']       = 'Sipariş Toplamları';
-$_['text_success']     = 'Başarılı: Kupon Toplamı başarılı bir şekilde değiştirildi!';
+$_['text_total']       = 'Sipariş Toplamı';
+$_['text_success']     = 'Başarılı: Toplam kupon değiştirildi!';
 
 // Entry
 $_['entry_status']     = 'Durumu:';
 $_['entry_sort_order'] = 'Sıralama:';
 
 // Error
-$_['error_permission'] = 'Uyarı: Kupon Toplamını düzenleme iznine sahip değilsiniz!';
+$_['error_permission'] = 'Uyarı: Toplam kuponları düzenleme iznine sahip değilsiniz!';
 ?>

@@ -18,10 +18,10 @@ $_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
 $_['entry_cc_issue']       = 'Card Issue Number:';
 
 // Error
-$_['error_required']       = 'Uyarı: All payment information fields are required.';
-$_['error_general']        = 'Uyarı: A general problem has occurred with the transaction. Please try again.';
-$_['error_config']         = 'Uyarı: Payment module configuration error. Please verify the login credentials.';
-$_['error_address']        = 'Uyarı: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
-$_['error_declined']       = 'Uyarı: This transaction has been declined. Please try again.';
-$_['error_invalid']        = 'Uyarı: The provided credit card information is invalid. Please try again.';
+$_['error_required']       = 'Error: All payment information fields are required.';
+$_['error_general']        = 'Error: A general problem has occurred with the transaction. Please try again.';
+$_['error_config']         = 'Error: Payment module configuration error. Please verify the login credentials.';
+$_['error_address']        = 'Error: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
+$_['error_declined']       = 'Error: This transaction has been declined. Please try again.';
+$_['error_invalid']        = 'Error: The provided credit card information is invalid. Please try again.';
 ?>

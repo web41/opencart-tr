@@ -27,11 +27,10 @@ $_['entry_captcha']    = 'Aşağıdaki kutuya kodu girin:';
 // Error
 $_['error_permission']  = 'Uyarı: Kullanıcıları düzenleme iznine sahip değilsiniz!';
 $_['error_account']     = 'Uyarı: Kendi hesabınızı silemezsiniz!';
-$_['error_exists']		= 'Uyarı: Kullanıcı adı zaten kullanılıyor!';
 $_['error_username']    = 'Kullanıcı Adı 3 ile 20 karakter arasında olmalı!';
-$_['error_password']    = 'Parola 4 ile 20 karakter arasında olmalı!';
+$_['error_password']    = 'Parola 3 ile 20 karakter arasında olmalı!';
 $_['error_confirm']     = 'Parolalarınız biribiri ile uyuşmuyor!';
-$_['error_firstname']   = 'Ad 1 ile 32 karakter arasında olmalı!';
-$_['error_lastname']    = 'Soyadı 1 ile 32 karakter arasında olmalı!';
-$_['error_captcha']		= 'Doğrulama kodu uyuşmuyor!';
+$_['error_firstname']   = 'Ad 3 ile 32 karakter arasında olmalı!';
+$_['error_lastname']    = 'Soyadı 3 ile 32 karakter arasında olmalı!';
+$_['error_captcha']    = 'Doğrulama kodu uyuşmuyor!';
 ?>

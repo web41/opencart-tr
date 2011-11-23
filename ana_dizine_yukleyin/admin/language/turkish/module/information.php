@@ -2,22 +2,19 @@
 /* Turkceye Ceviren eka7a - http://www.e-piksel.com */
 
 // Heading
-$_['heading_title']       = 'Bilgiler';
+$_['heading_title']    = 'Bilgiler';
 
 // Text
-$_['text_module']         = 'Modüller';
-$_['text_success']        = 'Başarılı: Bilgiler modülü güncellendi!';
-$_['text_content_top']    = 'Üst Tarafta';
-$_['text_content_bottom'] = 'Alt Tarafta';
-$_['text_column_left']    = 'Sol Blokta';
-$_['text_column_right']   = 'Sağ Blokta';
+$_['text_module']      = 'Modüler';
+$_['text_success']     = 'Başarılı: Bilgiler modülü güncellendi!';
+$_['text_left']        = 'Sol';
+$_['text_right']       = 'Sağ';
 
 // Entry
-$_['entry_layout']        = 'Bölüm:';
-$_['entry_position']      = 'Pozisyon:';
-$_['entry_status']        = 'Durumu:';
-$_['entry_sort_order']    = 'Sıralama:';
+$_['entry_position']   = 'Pozisyon:';
+$_['entry_status']     = 'Durumu:';
+$_['entry_sort_order'] = 'Sıralama:';
 
 // Error
-$_['error_permission']    = 'Uyarı: Bilgiler modülünü değiştirme iznine sahip değilsiniz!';
+$_['error_permission'] = 'Uyarı: Bilgiler modülünü değiştirme iznine sahip değilsiniz!';
 ?>

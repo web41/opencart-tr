@@ -10,7 +10,7 @@ $_['text_success']     = 'Başarılı: Parça Başına Kargo Fiyatı başarılı
 
 // Entry
 $_['entry_cost']       = 'Fiyatı:';
-$_['entry_tax_class']  = 'Vergi Oranı:';
+$_['entry_tax']        = 'Vergi Oranı:';
 $_['entry_geo_zone']   = 'Genel Gölge:';
 $_['entry_status']     = 'Durumu:';
 $_['entry_sort_order'] = 'Sıralama:';
