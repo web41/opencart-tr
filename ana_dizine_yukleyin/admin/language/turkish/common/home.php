@@ -37,5 +37,5 @@ $_['column_action']        		   = 'Aksiyon';
 $_['entry_range']         		   = 'Sıralama Seç:';
 
 // Error
-$_['error_install']          	   = 'UYARI: INSTALL DİZİNİ HALA MEVCUT! SİLMENİZ TAVSIYE EDİLİR!';
+$_['error_warning']          	   = 'UYARI: INSTALL DİZİNİ HALA MEVCUT! SİLMENİZ TAVSIYE EDİLİR!';
 ?>
