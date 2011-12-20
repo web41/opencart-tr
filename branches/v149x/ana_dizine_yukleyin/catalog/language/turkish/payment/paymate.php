@@ -10,7 +10,7 @@
 //-----------------------------------------------------------------
 
 // Text
-$_['text_title'] = 'Kredi Kartı / Bankamatik Kartı (Paymate)';
+$_['text_title'] = 'Kredi Kartı / Banka Kartı (Paymate)';
 
 $_['text_unable'] = 'Unable to locate or update your order status';
 $_['text_declined'] = 'Payment was declined by Paymate';
